@@ -1,11 +1,19 @@
-The Carson Issue Butler
-=======================
+<table>
+    <tr>
+        <td border="none">
+            <img src="https://raw.githubusercontent.com/wouterj/carsonbot/carson-image/public/imgs/carsonbot.png">
+        </td>
+        <td border="none">
+            <h1>The Carson Issue Butler</h1>
 
-![CI](https://github.com/carsonbot/carsonbot/workflows/CI/badge.svg)
+            <img src="https://github.com/carsonbot/carsonbot/workflows/CI/badge.svg" alt="CI">
 
-Carson is a bot that currently runs on the [symfony/symfony](https://github.com/symfony/symfony)
-repository. His job is to help automate different issue and pull request
-workflows.
+            Carson is a bot that currently runs on the [symfony/symfony](https://github.com/symfony/symfony)
+            repository. His job is to help automate different issue and pull request
+            workflows.
+        </td>
+    </tr>
+</table>
 
 For an introduction, read: http://symfony.com/blog/calling-for-issue-triagers-a-new-workflow-and-the-carson-butler
 
